@@ -94,9 +94,9 @@ A estrutura da interface da ProductAPI é organizada da seguinte forma:
 
 ```
 product/
-├── ProductController.java
-├── ProductIn.java
-├── ProductOut.java
+│   ├── ProductController.java
+│   ├── ProductIn.java
+│   ├── ProductOut.java
 ├── Jenkinsfile
 └── pom.xml
 ```
@@ -106,6 +106,7 @@ product/
 A implementação completa da ProductAPI segue a estrutura abaixo:
 
 ```
+product-service/
 ├── k8s/
 │   ├── deployment.yaml
 │   └── service.yaml

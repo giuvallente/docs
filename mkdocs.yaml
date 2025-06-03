@@ -76,3 +76,4 @@ nav:
   - Individual: 
     - Exchange API: ./exchange/main.md
     - Product API: ./product/main.md
+    - Order API: ./order/main.md
