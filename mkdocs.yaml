@@ -1,8 +1,8 @@
 site_name: Plataformas, Microsserviços e APIs
 site_author: Giulia Gomes Vallente
 site_url: https://giuvallente.github.io/documentation
-repo_url: https://github.com/giuvallente/documentation
-repo_name: giuvallente/documentation
+repo_url: https://github.com/giuvallente/docs
+repo_name: giuvallente/docs
 
 theme:
   name: material
@@ -75,3 +75,4 @@ nav:
   - Home: index.md
   - Individual: 
     - Exchange API: ./exchange/main.md
+    - Product API: ./product/main.md
