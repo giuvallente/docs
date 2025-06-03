@@ -10,7 +10,7 @@ A pipeline desenvolvida incluí as seguintes etapas:
 1. Push to Docker Hub
 1. Deploy to K8s
 
-## Estrutura 
+## Estrutura do Projeto
 
 Todos os microsserviços tiveram o deploy realizado no mesmo cluster, para isso, foi criado um Jenkinsfile em cada uma das API's desenvolvidas. 
 
