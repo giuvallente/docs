@@ -134,62 +134,62 @@ A implementação completa da ProductAPI segue a estrutura abaixo:
 
 === "ProductController.java"
     ``` { .java .copy .select linenums="1" }
-    --8<-- "https://raw.githubusercontent.com/giuvallente/product/blob/main/src/main/java/store/product/ProductController.java"
+    --8<-- "https://raw.githubusercontent.com/giuvallente/product/main/src/main/java/store/product/ProductController.java"
     ```
 
 === "ProductIn.java"
     ``` { .java .copy .select linenums="1" }
-    --8<-- "https://raw.githubusercontent.com/giuvallente/product/blob/main/src/main/java/store/product/ProductIn.java"    
+    --8<-- "https://raw.githubusercontent.com/giuvallente/product/main/src/main/java/store/product/ProductIn.java"    
     ```
 
 === "ProductOut.java"
     ``` { .java .copy .select linenums="1" }
-    --8<-- "https://raw.githubusercontent.com/giuvallente/product/blob/main/src/main/java/store/product/ProductOut.java"
+    --8<-- "https://raw.githubusercontent.com/giuvallente/product/main/src/main/java/store/product/ProductOut.java"
     ```
 
 === "pom.xml"
     ``` { .xml .copy .select linenums="1" }
-    --8<-- "https://raw.githubusercontent.com/giuvallente/product/blob/main/pom.xml"
+    --8<-- "https://raw.githubusercontent.com/giuvallente/product/main/pom.xml"
     ```
 
 ### Implementação da API
 
 === "Product.java"
     ``` { .java .copy .select linenums="1" }
-    --8<-- "https://raw.githubusercontent.com/giuvallente/product-service/blob/main/src/main/java/store/product/Product.java"
+    --8<-- "https://raw.githubusercontent.com/giuvallente/product-service/main/src/main/java/store/product/Product.java"
     ```
 
 === "ProductApplication.java"
     ``` { .java .copy .select linenums="1" }
-    --8<-- "https://raw.githubusercontent.com/giuvallente/product-service/blob/main/src/main/java/store/product/ProductApplication.java"    
+    --8<-- "https://raw.githubusercontent.com/giuvallente/product-service/main/src/main/java/store/product/ProductApplication.java"    
     ```
 
 === "ProductModel.java"
     ``` { .java .copy .select linenums="1" }
-    --8<-- "https://raw.githubusercontent.com/giuvallente/product-service/blob/main/src/main/java/store/product/ProductModel.java"
+    --8<-- "https://raw.githubusercontent.com/giuvallente/product-service/main/src/main/java/store/product/ProductModel.java"
     ```
 
 === "ProductParser.java"
     ``` { .java .copy .select linenums="1" }
-    --8<-- "https://raw.githubusercontent.com/giuvallente/product-service/blob/main/src/main/java/store/product/ProductParser.java"
+    --8<-- "https://raw.githubusercontent.com/giuvallente/product-service/main/src/main/java/store/product/ProductParser.java"
     ```
 
 === "ProductRepository.java"
     ``` { .java .copy .select linenums="1" }
-    --8<-- "https://raw.githubusercontent.com/giuvallente/product-service/blob/main/src/main/java/store/product/ProductRepository.java"
+    --8<-- "https://raw.githubusercontent.com/giuvallente/product-service/main/src/main/java/store/product/ProductRepository.java"
     ```
 
 === "ProductResource.java"
     ``` { .java .copy .select linenums="1" }
-    --8<-- "https://raw.githubusercontent.com/giuvallente/product-service/blob/main/src/main/java/store/product/ProductResource.java"
+    --8<-- "https://raw.githubusercontent.com/giuvallente/product-service/main/src/main/java/store/product/ProductResource.java"
     ```
 
 === "ProductService.java"
     ``` { .java .copy .select linenums="1" }
-    --8<-- "https://raw.githubusercontent.com/giuvallente/product-service/blob/main/src/main/java/store/product/ProductService.java"
+    --8<-- "https://raw.githubusercontent.com/giuvallente/product-service/main/src/main/java/store/product/ProductService.java"
     ```
 
 === "pom.xml"
     ``` { .xml .copy .select linenums="1" }
-    --8<-- "https://raw.githubusercontent.com/giuvallente/product-service/blob/main/pom.xml"
+    --8<-- "https://raw.githubusercontent.com/giuvallente/product-service/main/pom.xml"
     ```
