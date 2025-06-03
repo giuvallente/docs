@@ -21,7 +21,6 @@ A API possui o seguinte endpoint:
         }
         ```
         ```bash
-        $ curl -X GET "https://api.exchange.com/USD/EUR"
         Response code: 200 (ok)
         ```
 
@@ -45,7 +44,7 @@ Dockerfile
 
 === "requirements.txt"
     ``` { .txt .copy .select linenums="1" }
-    --8<-- "https://raw.githubusercontent.com/giuvallente/exchange/blob/main/app/requirements.txt"    
+    --8<-- "https://raw.githubusercontent.com/giuvallente/exchange/main/app/requirements.txt"    
     ```
 
 === "Dockerfile"
