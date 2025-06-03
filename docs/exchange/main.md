@@ -20,8 +20,6 @@ A API possui o seguinte endpoint:
             "id-account": "0195ae95-5be7-7dd3-b35d-7a7d87c404fb"
         }
         ```
-
-        <!-- termynal -->
         ```bash
         $ curl -X GET "https://api.exchange.com/USD/EUR"
         Response code: 200 (ok)
@@ -47,7 +45,7 @@ Dockerfile
 
 === "requirements.txt"
     ``` { .txt .copy .select linenums="1" }
-    --8<-- "https://raw.githubusercontent.com/giuvallente/exchange/main/app/requirements.txt"    
+    --8<-- "https://raw.githubusercontent.com/giuvallente/exchange/blob/main/app/requirements.txt"    
     ```
 
 === "Dockerfile"
